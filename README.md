@@ -1,0 +1,2 @@
+# TextSummarizer
+Automatic Text Summarizer
